@@ -11,7 +11,7 @@ namespace TestApp
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            string b = "2";
         }
     }
 }
